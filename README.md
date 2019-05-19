@@ -1,4 +1,4 @@
-# Nodejs_Mongodb_TodoApp
+# Nodejs and Mongodb Todo App
 A simple to do list app built Using Node.js and MongoDB on Cloud9.
 
 For the app to work, you need to install the following packages using **npm install [package name] --save**

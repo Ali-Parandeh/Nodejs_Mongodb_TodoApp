@@ -6,3 +6,6 @@ For the app to work, you need to install the following packages using **npm inst
 - express: 4.16.4
 - mongoose": 5.3.15
 
+Frontend:
+
+![Todo List App Frontend](https://i.imgur.com/RexMhdw.png "Todo List App Frontend")
